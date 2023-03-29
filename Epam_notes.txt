@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang = “en”>
+<head>
+	<meta cahrset = "UTF-8">
+	<meta name = "viewport" content = "width = device-width , intital-scale = 1.0"
+	<tilte>Document</title>
+	<link rel = "stylesheet" href = "css/style.css">
+</head>
+<body>
+	<!-- <blockquote>
+	<cite>
+	<>
+
+
+<p>Table with thead, tfoot , and tbody</p> -->
+<table>
+	<thead>
+		<tr>
+			<th>Header content 1</th>
+			<th>Header content 2</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td>Header content 1</td>
+			<td>Header content 2</td>
+		</tr>
